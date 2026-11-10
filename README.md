@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hey there! 👋 I'm Kunal
+           _______
+          /       \
+         |  o   o  |
+         |    ^    |
+          \  ---  /
+        ___\_____/___
+       /             \
+      /  ___________  \
+     |  | </>       |  |
+     |  | while(1)  |  |
+     |  |   code(); |  |
+     |  |___________|  |
+      \_______________/
+      [_][_][_][_][_][_]
+      [_][_][____][_][_]
 
-<!--
-**kunal2604/kunal2604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Backend & Distributed Systems | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+I'm a software engineer with 7 years of experience building enterprise applications, APIs and workflow-driven systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 💻 Experienced in C#, .NET Core, Angular and SQL.
+- 🏗️ Interested in distributed systems, databases and system design.
+- 🧠 Exploring Machine Learning, Generative AI and Agentic AI.
+- 🔧 Building projects to understand systems from the ground up.
+- 🌱 Currently deepening my knowledge of C++, computer science fundamentals and AI.
+
+### 🛠️ Technologies
+
+**Languages:** C#, C++, Python, JavaScript
+
+**Backend:** .NET Core, ASP.NET Core, Node.js
+
+**Frontend:** Angular
+
+**Databases:** PostgreSQL, SQL Server, MongoDB
+
+**Other:** Docker, Kafka, Redis, Git
+
+### 📫 Let's Connect
+
+Always happy to discuss software engineering, architecture, databases and AI.
