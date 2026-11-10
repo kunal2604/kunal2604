@@ -46,9 +46,6 @@ Always happy to discuss software engineering, architecture, databases and AI.
 ### 📫 Let's Connect
 
 - 💼 LinkedIn: [Kunal Kumar](https://www.linkedin.com/in/kk2604/)
-- 💻 GitHub: [My Repositories](https://github.com/YOUR_USERNAME)
--  <a href="https://github.com/kunal2604?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-My_Repositories-black?style=for-the-badge&logo=github" />
-</a>
+- 💻 GitHub: [My Repositories](https://github.com/kunal2604)
 
 Always happy to connect and discuss software engineering, distributed systems, databases and AI!
